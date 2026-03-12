@@ -1,5 +1,5 @@
 # TAG
 
-Bring back the thrill of playground tag, now across your whole campus, with live maps, groups, and real-time hunts
+Bring back the thrill of playground tag across your town, campus, or city, with live maps, groups, and real-time hunts
 
 https://tagthe.app/
